@@ -1,6 +1,11 @@
 # World News Infographic — 17 November 2026
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/varayayyi/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/varayayyi/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 An editorial infographic synthesizing global headlines and developments for **Tuesday, 17 November 2026**.
+Official entry for the [make.fun news-image-20261117 Bounty](https://make.fun/bounty/news-image-20261117).
 
 ## Overview
 This entry produces a crisp, editorial-grade visual overview of five major global sectors on 17 November 2026:
